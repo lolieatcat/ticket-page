@@ -13,6 +13,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^5.2.1",
+    "ticket-filter": "^1.0.0",
     "umi": "^3.3.0"
   },
   "devDependencies": {
